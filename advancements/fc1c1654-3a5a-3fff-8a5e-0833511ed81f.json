@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-02-05 16:46:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-07-17 22:02:57 +0800"
@@ -679,9 +685,11 @@
     "criteria": {
       "minecraft:forest": "2023-03-31 19:51:16 +0800",
       "minecraft:mountains": "2023-07-17 22:02:39 +0800",
+      "minecraft:dark_forest": "2024-02-05 17:01:03 +0800",
       "minecraft:river": "2023-08-08 15:06:39 +0800",
       "minecraft:wooded_mountains": "2023-08-08 15:35:52 +0800",
-      "minecraft:swamp": "2023-08-08 15:06:42 +0800"
+      "minecraft:swamp": "2023-08-08 15:06:42 +0800",
+      "minecraft:plains": "2024-02-05 17:01:28 +0800"
     },
     "done": false
   },
